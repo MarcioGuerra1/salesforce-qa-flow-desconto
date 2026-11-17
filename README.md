@@ -53,6 +53,10 @@ Em todos os casos, o Integration Status nasceu como **Not Started** (valor padr�
 
 ![CT03](Evidencias/CT03-valor-limite.png)
 
+**Flow ativo no Flow Builder (Opportunity High Discount Flags - V1)**
+
+![Flow ativo](Evidencias/flow-ativo.png)
+
 ## Passos de execução (exemplo: CT01)
 
 1. Abrir o app Sales e clicar em Opportunities, depois New.
