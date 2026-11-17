@@ -39,6 +39,20 @@ Criar e validar uma automação (Record-Triggered Flow) que marca o campo **High
 
 Em todos os casos, o Integration Status nasceu como **Not Started** (valor padrão).
 
+## Evidências
+
+**CT01: desconto alto (25%), Flag marcado**
+
+![CT01](Evidencias/CT01-desconto-alto.png)
+
+**CT02: desconto baixo (10%), Flag desmarcado**
+
+![CT02](Evidencias/CT02-desconto-baixo.png)
+
+**CT03: valor-limite (20%), Flag desmarcado**
+
+![CT03](Evidencias/CT03-valor-limite.png)
+
 ## Passos de execução (exemplo: CT01)
 
 1. Abrir o app Sales e clicar em Opportunities, depois New.
